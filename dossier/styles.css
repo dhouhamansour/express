@@ -1,0 +1,95 @@
+h1{ 
+    padding-top:  120px;
+    padding-left: 300px;
+    /* text-align: center ; */
+    font-family: 'Work Sans', sans-serif;
+    color:black;
+}
+
+h6{ 
+    /* padding:  200px; */
+     /* text-align: center ; */
+     padding-left: 100px;
+     font-family: 'Work Sans', sans-serif;
+     color:rgb(252,201,11);
+ }
+
+
+ul a {
+/*     
+    font-family: Roboto,Arial,sans-serif; */
+    color: rgb(114,114,114) !important;
+    font-weight: bold;
+    /* padding: 0px 10px;
+    text-decoration:none ;
+    font-weight: bold; */
+}
+a:hover{
+
+    color:rgb(252,201,11) !important;
+    font-weight: bold !important;
+   
+}
+h2{
+    color: black;
+    /* text-align: center; */
+    font-family: 'Roboto', sans-serif;
+    padding-left: 600px;
+    padding-top: 50px;
+    font-weight: bold !important;
+    width: 2000px;
+    font-size: 40px !important;
+}
+.brand{
+    color:rgb(252,201,11) !important ;
+    font-weight: bold;
+    padding-right: 850px;
+    font-size: 28px;
+    padding-left: 20px;
+}
+.bloc{
+    background:rgb(252,201,11);
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    /* padding: 1.875em 0 .625em; */
+    margin-top: 20px;
+    height: 300px;
+    display: flex;
+    overflow: hidden;
+}
+.picture{
+    width: 200px;
+    margin-left: 550px;
+}
+
+.services{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.btn{
+    /* color: rgb(252,201,11) !important; */
+    background-color: rgb(252,201,11) !important;
+    border: rgb(252,201,11) !important;
+}
+.mb-3{
+    width: 250px;
+    color:black;
+    border: rgb(252,201,11);
+    margin-left: 50px;
+}
+.bloc1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.message{
+    width: 555px !important;
+    height: 100px;
+    margin-left: 430px;
+    color:black;
+}
+.submit{
+    margin-left: 885px !important;
+    width: 100px !important;
+}
